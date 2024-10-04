@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: zte-e8820s-nand-kms-ddns-openwrt-23.05
+name: zte-e8820s-nand-kms-ddns-immortalwrt-23.05
 
 on:
   repository_dispatch:
